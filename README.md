@@ -12,3 +12,7 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 3.- **aprox_func_red_neuronal** (28/01/26)
 
   aproximación de una función en 200 épocas comparando 2, 3 y 4 neuronas usando tangentes hiperbólicas
+
+4.- **mod_pesos_extr_interv** (02/02/26)
+
+  comparación de función de activación tangente hiperbólica / sigmoide en los extremos del intervalo
