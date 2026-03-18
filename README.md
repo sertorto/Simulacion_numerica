@@ -20,3 +20,7 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 5.- **aprox_seno1, aprox_seno2** (04/02/26)
 
   distintas aproximaciones de la función seno en distintos intervalos cerrados con distinto número de neuronas
+
+6.- **aprox_red_profunda** (04/02/26)
+
+  aproximación de función parabólica con red profunda para comparar con red ancha
