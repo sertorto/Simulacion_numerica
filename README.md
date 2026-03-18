@@ -33,4 +33,8 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 
   resolución apartados del ejercicio 1 de la hoja 2 de resolución de ecuaciones diferenciales con redes KAN
 
-9.-
+9.- **pinn_vs_pikan_1d, pinn_vs_pikan_calor** (16/02/26)
+
+  comparación redes pinn vs pikan aplicado al ejercicio 1d de la hoja 2 y a la ecuación del calor
+
+10.- ****
