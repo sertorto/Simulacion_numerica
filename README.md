@@ -40,3 +40,7 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 10.- **kolmogorov_perdida_pinn_pikan** (18/02/26)
 
   comparación evolución de pérdida en la ecuación del calor + término no lineal entre redes PINN y PIKAN
+
+11.- **calor_pinn_pikan** (23/02/26)
+
+  comparación ecuación del calor pinn vs pikan, junto a la evolución de pérdida
