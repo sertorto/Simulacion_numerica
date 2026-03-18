@@ -37,4 +37,6 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 
   comparación redes pinn vs pikan aplicado al ejercicio 1d de la hoja 2 y a la ecuación del calor
 
-10.- ****
+10.- **kolmogorov_perdida_pinn_pikan** (18/02/26)
+
+  comparación evolución de pérdida en la ecuación del calor + término no lineal entre redes PINN y PIKAN
