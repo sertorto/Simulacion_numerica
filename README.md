@@ -28,3 +28,9 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 7.- **hoja2_1a, hoja2_1b, hoja2_1c, hoja2_1d** (09-11/02/26)
 
   resolución apartados del ejercicio 1 de la hoja 2 de resolución de ecuaciones diferenciales con redes PINN
+
+8.- **hoja2_1a_kan, hoja2_1b_kan** (11/02/26)
+
+  resolución apartados del ejercicio 1 de la hoja 2 de resolución de ecuaciones diferenciales con redes KAN
+
+9.-
