@@ -24,3 +24,7 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 6.- **aprox_red_profunda** (04/02/26)
 
   aproximación de función parabólica con red profunda para comparar con red ancha
+
+7.- **hoja2_1a, hoja2_1b, hoja2_1c, hoja2_1d** (09-11/02/26)
+
+  resolución apartados del ejercicio 1 de la hoja 2 de resolución de ecuaciones diferenciales con redes PINN
