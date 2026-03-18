@@ -16,3 +16,7 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 4.- **mod_pesos_extr_interv** (02/02/26)
 
   comparación de función de activación tangente hiperbólica / sigmoide en los extremos del intervalo
+
+5.- **aprox_seno** (04/02/26)
+
+  distintas aproximaciones de la función seno en distintos intervalos cerrados con distinto número de neuronas
