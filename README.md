@@ -54,4 +54,9 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
   resolución del problema inverso para encontrar el parámetro oculto A en F(x) = Ax y distintas F(x)
 
 14.- **pinn_vs_exacta_calor** (09/03/26)
+  
   comparativa en distintos tiempos de la ecuación del calor resuelta con PINN y KAN respecto de la solución exacta
+
+5.- **evol_edp_no_lineal_control_vs_no_control** (09/03/26)
+
+  comparativa edp no lineal con y sin control en la ecuación del calor
