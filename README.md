@@ -49,7 +49,7 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 
   resolución ecuación del calor con distintas F(x) en el término no lineal y en los intervalo [-1,1] y [0,1]
 
-13.- **pikan_inverso1, pikan_inverso2, pikan_inverso3, pikan_inverso4, resumen_inverso** (04/03/26)
+13.- **pikan_inverso1, pikan_inverso2, pikan_inverso3, pikan_inverso4, resumen_inverso, ej_problema_inverso** (04/03/26)
 
   resolución del problema inverso para encontrar el parámetro oculto A en F(x) = Ax y distintas F(x)
 
