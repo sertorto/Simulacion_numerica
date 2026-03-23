@@ -44,3 +44,8 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 11.- **calor_pinn_pikan** (23/02/26)
 
   comparación ecuación del calor pinn vs pikan, junto a la evolución de pérdida
+
+12.- **calor_kan** (02/03/26)
+
+  resolución ecuación del calor con distintas F(x) en el término no lineal y en el intervalo [-1,1]
+  
