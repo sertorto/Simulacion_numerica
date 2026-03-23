@@ -68,3 +68,7 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 17.- **problema_microestructuras** (11/03/26)
 
   resolución problema microestructuras con distintos epsilons y número de puntos
+
+18.- **microestructura_calor** (13/03/26)
+
+  
