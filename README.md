@@ -45,7 +45,7 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 
   comparación ecuación del calor pinn vs pikan, junto a la evolución de pérdida
 
-12.- **calor_kan_-1_1, calor_kan_0_1** (02/03/26)
+12.- **calor_kan_-1_1, calor_kan_0_1, calor_pinn_0_1** (02/03/26)
 
-  resolución ecuación del calor con distintas F(x) en el término no lineal y en el intervalo [-1,1] y [0,1]
+  resolución ecuación del calor con distintas F(x) en el término no lineal y en los intervalo [-1,1] y [0,1]
   
