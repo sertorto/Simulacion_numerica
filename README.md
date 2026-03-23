@@ -57,6 +57,14 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
   
   comparativa en distintos tiempos de la ecuación del calor resuelta con PINN y KAN respecto de la solución exacta
 
-5.- **evol_edp_no_lineal_control_vs_no_control1, evol_edp_no_lineal_control_vs_no_control2** (09/03/26)
+15.- **evol_edp_no_lineal_control_vs_no_control1, evol_edp_no_lineal_control_vs_no_control2** (09/03/26)
 
   comparativa edp no lineal con y sin control en la ecuación del calor en distintos intervalos
+  
+16.- **evol_termica_sin_control_vs_control** (09/03/26)
+
+  comparativa de la evolución térmica (2D) sin control y con control
+
+17.- **problema_microestructuras1, problema_microestructuras2** (11/03/26)
+
+  resolución problema microestructuras con distintos epsilons y número de puntos
