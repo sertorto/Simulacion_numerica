@@ -65,6 +65,6 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
 
   comparativa de la evolución térmica (2D) sin control y con control
 
-17.- **problema_microestructuras1, problema_microestructuras2** (11/03/26)
+17.- **problema_microestructuras** (11/03/26)
 
   resolución problema microestructuras con distintos epsilons y número de puntos
