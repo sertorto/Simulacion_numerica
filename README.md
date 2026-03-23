@@ -57,6 +57,6 @@ Recompilación del código de python o matlab para resolver los ejercicios propu
   
   comparativa en distintos tiempos de la ecuación del calor resuelta con PINN y KAN respecto de la solución exacta
 
-5.- **evol_edp_no_lineal_control_vs_no_control** (09/03/26)
+5.- **evol_edp_no_lineal_control_vs_no_control1, evol_edp_no_lineal_control_vs_no_control2** (09/03/26)
 
-  comparativa edp no lineal con y sin control en la ecuación del calor
+  comparativa edp no lineal con y sin control en la ecuación del calor en distintos intervalos
